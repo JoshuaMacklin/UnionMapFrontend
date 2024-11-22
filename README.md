@@ -1,8 +1,5 @@
-# React + Vite
+# Union Mapper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application was built in order to help others shop more ethically. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After being surprised by the quality of products, low prices, and overall sustainability by the local Union shops in my area, I wanted to build an app that could help their and others visibility.
