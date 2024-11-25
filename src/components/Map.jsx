@@ -60,7 +60,7 @@ const Mapz = () => {
         // var capitals = L.layerGroup([klagenfurt, graz, eisenstadt, salzburg, wien, stpoelten, linz, innsbruck, bregenz]).addTo(map)
         
         L.marker([40.741895, -73.989308], {icon: markerIcon}).bindPopup('<h2>Default Fortnite Dance</h2><b>Default Fortnite Dance</b>').addTo(map);
-;
+        
         
         // var overlays = {
         //     'Capitals': capitals
